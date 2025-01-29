@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Akshat-Sharma-110011<br>👀 I’m interested in Data science, ML, DL<br>🌱 I’m currently learning MLOPS, Computer Vision and Ai<br>💞️ I’m looking to collaborate on various projects<br>📫 How to reach me: akshatsharma.work.1310@gmail.com
+-👋 Hi, I’m @Akshat-Sharma-110011<br>👀 -I’m interested in Data science, ML, DL<br>-🌱 I’m currently learning MLOPS, Computer Vision and Ai<br>-💞️ I’m looking to collaborate on various projects<br>-📫 How to reach me: akshatsharma.work.1310@gmail.com
 
 
 ## 🌐 Socials:
